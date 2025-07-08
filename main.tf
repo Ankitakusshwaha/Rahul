@@ -3,4 +3,9 @@ resource "azurerm_resource_group" "hello-rg" {
     location = "west us"
   
 }
-1
+
+resource "azurerm_resource_group" "hello-rg" {
+    name ="ramesh1"
+    location = "west us"
+  
+}
